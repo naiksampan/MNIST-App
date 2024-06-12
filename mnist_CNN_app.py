@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image
 import torch
+import cv2
 import torchvision
 
 st.write('# MNIST Digit Recognition')
