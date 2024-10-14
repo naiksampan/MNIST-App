@@ -4,8 +4,9 @@ matplotlib==3.7.3
 numpy==1.24.3
 Pillow==10.1.0
 torch==2.1.0
-opencv-python==4.8.1.78
+opencv-python
 opencv-contrib-python==4.9.0.80
 torchvision==0.16.0
 numpy
 opencv-python-headless
+#4.8.1.78
