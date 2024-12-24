@@ -27,8 +27,8 @@ This repository demonstrates a complete pipeline for training a deep learning mo
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/mnist-digit-classifier.git
-   cd mnist-digit-classifier
+   https://github.com/naiksampan/MNIST-App.git
+   cd MNIST-App
    ```
 
 2. **Install Dependencies**:
