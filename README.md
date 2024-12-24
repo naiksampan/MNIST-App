@@ -42,7 +42,7 @@ This repository demonstrates a complete pipeline for training a deep learning mo
 
 4. **Run the App**:
    ```bash
-   streamlit run app.py
+   streamlit run mnist_CNN_app.py
    ```
    - The app will open in your default browser. Draw a digit on the canvas to see real-time predictions.
 
