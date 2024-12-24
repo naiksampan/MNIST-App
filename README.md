@@ -1,6 +1,3 @@
-Here is a professional version of your GitHub README content: 
-
----
 
 # Handwritten Digit Classification with MNIST and PyTorch
 
@@ -81,6 +78,3 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
---- 
-
-Let me know if you'd like to customize this further!
